@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --color-card: rgb(19, 21, 22);
+    --color-buttonHover: rgb(51, 51, 56);
+    --color-btn: rgb(33, 34, 34);
+    --color-textColor: rgb(181, 182, 182);
+    --color-expandCard: rgb(15, 16, 17);
+  }
